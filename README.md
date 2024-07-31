@@ -6,8 +6,8 @@
   - [Screenshot](#screenshot)
   - [Features](#features)
   - [Requirements](#requriements)
-  - [How to run](#how to run)
-  - [Game Rules](#game rules)
+  - [How to run the game](#how-to-run-the-game)
+  - [Game Rules](#game-rules)
   - [Customization](#customization)
   - [Contributing](#contributing)
 - [Author](#author)
@@ -32,7 +32,7 @@ The objective is to control the snake to eat the food, grow in length, and avoid
 
 Before running the game, ensure you have python 3.XX installed
 
-### How to run the Game
+## How to run the Game
 
 **Clone the Repository:**
 
@@ -58,11 +58,14 @@ python3 main.py
 
 ## Customization
 
-You can customize the game by modifying the `snake_game.py` file. Some options to explore:
+You can customize the game by modifying the `main.py` file. Some options to explore:
 
 - **Game Speed**: Adjust the game speed by changing the `speed` variable.
 - **Screen Size**: Modify the screen width and height by changing the `width` and `height` variables.
 - **Colors**: Change the colors of the snake, food, and background.
+
+**You can also run the file `turtle_race.py`:**
+This is a demo race game where yours
 
 ## Contributing
 
@@ -74,6 +77,3 @@ Please ensure your contributions align with the project’s style and objectives
 - Frontend Mentor - [@12Ricky0](https://www.frontendmentor.io/profile/12Ricky0)
 - Instagram - [@temple4b](https://www.instagram.com/temple4b)
 
-```
-
-```
