@@ -65,7 +65,8 @@ You can customize the game by modifying the `main.py` file. Some options to expl
 - **Colors**: Change the colors of the snake, food, and background.
 
 **You can also run the file `turtle_race.py`:**
-This is a demo race game where yours
+This is a demo turtle race where you can bet on a turtle by choosing from the color:
+[`red`, `green`, `blue`, `yellow`, `orange`, `purple`]
 
 ## Contributing
 
