@@ -19,7 +19,7 @@ The objective is to control the snake to eat the food, grow in length, and avoid
 
 ### Screenshot
 
-![./client/public/assets/bmk.png](./client/public/assets/bmk.png)
+![/sc.png](/sc.png)
 
 ### Features:
 
